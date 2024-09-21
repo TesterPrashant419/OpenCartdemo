@@ -17,7 +17,7 @@ public class BaseClass {
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        driver.get("https://tutorialsninja.com/demo/index.php?route=account/login"); // Updated URL
+        driver.get("https://tutorialsninja.com/demo/index.php?route=common/home"); // Updated URL
         driver.manage().window().maximize();
     }
 

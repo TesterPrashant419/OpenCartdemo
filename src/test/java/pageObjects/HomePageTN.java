@@ -15,6 +15,9 @@ public class HomePageTN extends BasePage {
 
     @FindBy(xpath = "//a[normalize-space()='Register']")
     WebElement registerLinkTN;
+    
+    @FindBy(linkText ="Login")
+    WebElement linklogin;
 
     public void clickMyAccount() {
         linkMyAccountTN.click();
@@ -23,4 +26,13 @@ public class HomePageTN extends BasePage {
     public void clickRegister() {
         registerLinkTN.click();
     }
+
+    public void clickLogin()
+    {
+    	linklogin.click();
+    }
+
+
 }
+
+
