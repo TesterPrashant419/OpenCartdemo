@@ -19,7 +19,7 @@ public class TC003_EditAccountTest extends BaseClass {
 		
 		
 		LoginPage lp = new LoginPage(driver);
-		lp.setEmail("rajansingh12@yopmail.com");
+		lp.setEmail("Sameer7@yopmail.com");
 		lp.setPassword("Test@12345");
 		lp.clickLogin();
 	    Thread.sleep(5000);
@@ -28,22 +28,12 @@ public class TC003_EditAccountTest extends BaseClass {
 		ea.clickeditaccount();
 	    ea.setFirstName("Tapas");
 	    ea.setLastName("Mishra");
-	    ea.setEmail("Tapan34@yopmail.com");
+	    ea.setEmail("Sameer8@yopmail.com");
 	    ea.setTelephone("1234567");
 	    ea.clickContinue();
 	    boolean result = ea.isSuccessMessageDisplayed();
         Assert.assertTrue(result, "The account was not updated successfully.");
 	
-	
-	
-	
-	
-	}
-	
-	
-	
-	
-	
-	
+	}	
 	
 }

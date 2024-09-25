@@ -1,5 +1,10 @@
 C:\Users\Admin\Automation\OpenCartdemo\src\test\java\testBase\BaseClass.java
 C:\Users\Admin\Automation\OpenCartdemo\src\test\java\pageObjects\HomePageTN.java
+C:\Users\Admin\Automation\OpenCartdemo\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\Admin\Automation\OpenCartdemo\src\test\java\pageObjects\BasePage.java
 C:\Users\Admin\Automation\OpenCartdemo\src\test\java\pageObjects\AccountRegistrationPageTN.java
+C:\Users\Admin\Automation\OpenCartdemo\src\test\java\testCases\TC002_LoginTest.java
+C:\Users\Admin\Automation\OpenCartdemo\src\test\java\testCases\TC003_EditAccountTest.java
+C:\Users\Admin\Automation\OpenCartdemo\src\test\java\pageObjects\EditAccountPageTN.java
+C:\Users\Admin\Automation\OpenCartdemo\src\test\java\pageObjects\LoginPage.java
 C:\Users\Admin\Automation\OpenCartdemo\src\test\java\testCases\TC001_AccountRegistrationTest.java

@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-21T15:30:25 IST" name="Default suite" finished-at="2024-09-21T15:30:43 IST" duration-ms="17437">
+  <suite started-at="2024-09-24T19:43:00 IST" name="Suite" finished-at="2024-09-24T19:43:12 IST" duration-ms="11598">
     <groups>
     </groups>
-    <test started-at="2024-09-21T15:30:25 IST" name="Default test" finished-at="2024-09-21T15:30:43 IST" duration-ms="17437">
+    <test started-at="2024-09-24T19:43:00 IST" name="Test" finished-at="2024-09-24T19:43:12 IST" duration-ms="11598">
       <class name="testCases.TC003_EditAccountTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC003_EditAccountTest@7f0eb4b4]" started-at="2024-09-21T15:30:25 IST" name="setup" finished-at="2024-09-21T15:30:31 IST" duration-ms="5994" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC003_EditAccountTest@7f0eb4b4]" started-at="2024-09-24T19:43:01 IST" name="setup" finished-at="2024-09-24T19:43:03 IST" duration-ms="2970" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_EditAccount()[pri:0, instance:testCases.TC003_EditAccountTest@7f0eb4b4]" started-at="2024-09-21T15:30:31 IST" name="verify_EditAccount" finished-at="2024-09-21T15:30:42 IST" duration-ms="10711" status="PASS">
+        <test-method signature="verify_EditAccount()[pri:0, instance:testCases.TC003_EditAccountTest@7f0eb4b4]" started-at="2024-09-24T19:43:03 IST" name="verify_EditAccount" finished-at="2024-09-24T19:43:12 IST" duration-ms="8273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_EditAccount -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_EditAccountTest@7f0eb4b4]" started-at="2024-09-21T15:30:42 IST" name="tearDown" finished-at="2024-09-21T15:30:43 IST" duration-ms="676" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_EditAccountTest@7f0eb4b4]" started-at="2024-09-24T19:43:12 IST" name="tearDown" finished-at="2024-09-24T19:43:12 IST" duration-ms="315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC003_EditAccountTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
